@@ -1,0 +1,6 @@
+# Ignore all CSV files but upload the migration code
+*.csv
+.env
+venv
+.vscode
+.DS_Store
